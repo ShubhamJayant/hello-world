@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="navigation_menu" type="XML" />
+      <mapping pattern="action_bar_for_all" type="XML" />
+      <mapping pattern="action_bar_for_data" type="XML" />
     </extensionMap>
   </component>
 </application>
